@@ -1,0 +1,6 @@
+__pycache__/
+*.html
+render_qa.py
+verify_cdn.py
+capture_log.txt
+/tmp/
